@@ -2,7 +2,7 @@
 ## Getting Started 
 This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers to give you a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
 
-The course aims to provide the right blend of hands-on, theory and best practices in this rapidly developing area while providing grounding in essential concepts which remain timeless. Tools and frameworks like, Keras, TensorFlow, and Google Cloud are used to showcase the strengths of various approaches, trade-offs and building blocks for creating real-world examples of distributed deep learning models.
+The course aims to provide the right blend of hands-on, theory and best practices in this rapidly developing area while providing grounding in essential concepts which remain timeless. Tools and frameworks like, `Keras`, `TensorFlow`, and `Google Cloud` are used to showcase the strengths of various approaches, trade-offs and building blocks for creating real-world examples of distributed deep learning models.
 
 
 ### Prerequisites
@@ -10,7 +10,7 @@ This course is for intermediate machine learners like you who want to learn more
 
 You will be successful in this course if you have a basic knowledge of computer programming expecially Python programming language. Also some familiarity with deep learning like neural networks will be helpful. 
 
-You can download Keras and TensorFlow easily on your computer for free. You need a Google Cloud free tier account and `$300` credit. By going through this course, you will probably just need to spend at most `$50` out of your `$300` free credit. 
+In this course, you will need a Google Cloud free tier account. Note that you won't be charged by creating the account. Instead, you can get `$300` credit to spend on Google Cloud Platform for 12 months and access to the Always Free tier to try participating products at no charge. By going through this course, you will probably need to spend at most `$50` out of your `$300` free credit. 
 
 ### Built with 
 * [Keras](https://keras.io/)
@@ -67,7 +67,7 @@ https://cloud.google.com/sdk/
 ---
 
 **SECTION III - Distirbuted Deep Learning with Google Cloud MLE**
-###### Links: 
+##### Links: 
 * SectionIII: https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning
 * DDL- MLE: https://github.com/christianramsey/ddl_mle
 * GCMLE: https://github.com/christianramsey/gcmle.git
