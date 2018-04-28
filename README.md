@@ -53,7 +53,8 @@ https://cloud.google.com/sdk/
 * Tumblr : https://www.tumblr.com/blog/haohanwang 
 
 ***
-**SECTION I – Keras introduction**
+### Content
+**SECTION I – [Keras introduction](https://github.com/haohan723/DistributedDeepLearning/tree/master/S1%20Keras%20Introduction)**
 * 1.1 Keras Introduction
 * 1.2 Review of backends Theano, Tensorflow, and Mxnet
 * 1.3 Design and compile a model
@@ -62,7 +63,7 @@ https://cloud.google.com/sdk/
 * 1.6 Training Image data on the disk with Transfer Learning and Data augmentation 
 -----
 
-**SECTION II – Scaling Deep Learning using Keras and Tensorflow**
+**SECTION II – [Scaling Deep Learning using Keras and Tensorflow](https://github.com/haohan723/DistributedDeepLearning/tree/master/S2%20Distributed%20TensorFlow%20%26%20Keras)**
 * 2.1 Tensorflow Introduction
 * 2.2 Tensorboard Introduction
 * 2.3 Types of Parallelism in Deep Learning – Synchronous vs Asynchronous
