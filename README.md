@@ -18,9 +18,9 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 * [Google Cloud MLE](https://cloud.google.com/ml-engine/)
 
 ### Versioning 
-Keras `2.1.6`
-Tensorflow `1.8`
-Google Cloud MLE `latest`
+* Keras `2.1.6`
+* Tensorflow `1.8`
+* Google Cloud MLE `latest`
 
 ### Installing 
 1. Keras
@@ -37,7 +37,7 @@ sudo pip3 install tensorflow
 ```
 3. Google Cloud MLE 
 https://cloud.google.com/sdk/
-> Installation details will be explained in Section III
+> Installation details will be explained in [Section III](https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning)
 
 ### Authors 
 **Christian Ramsey** 
