@@ -1,5 +1,54 @@
 # Distributed-Deep-Learning
----
+## Getting Started 
+This course is aimed at intermediate machine learning engineers, DevOps, technology architects and programmers to give you a solid background in how to scale-out machine learning algorithms in general and deep learning in particular. 
+
+The course aims to provide the right blend of hands-on, theory and best practices in this rapidly developing area while providing grounding in essential concepts which remain timeless. Tools and frameworks like, Keras, TensorFlow, and Google Cloud are used to showcase the strengths of various approaches, trade-offs and building blocks for creating real-world examples of distributed deep learning models.
+
+
+### Prerequisites
+This course is for intermediate machine learners like you who want to learn more about deep learning, how to scale out your deep learning model, and then quickly turn around and use the tools and techniques you are about to learn from this course to solve your tricky deep learning tasks. 
+
+You will be successful in this course if you have a basic knowledge of computer programming expecially Python programming language. Also some familiarity with deep learning like neural networks will be helpful. 
+
+You can download Keras and TensorFlow easily on your computer for free. You need a Google Cloud free tier account and `$300` credit. By going through this course, you will probably just need to spend at most `$50` out of your `$300` free credit. 
+
+### Built with 
+* [Keras](https://keras.io/)
+* [TensorFlow](https://www.tensorflow.org/) 
+* [Google Cloud MLE](https://cloud.google.com/ml-engine/)
+
+### Versioning 
+Keras `2.1.6`
+Tensorflow `1.8`
+Google Cloud MLE `latest`
+
+### Installing 
+1. Keras
+```
+sudo pip3 install keras
+```
+2. TensorFlow 
+```
+sudo pip3 install tensorflow-gpu
+```
+**OR**
+```
+sudo pip3 install tensorflow
+```
+3. Google Cloud MLE 
+https://cloud.google.com/sdk/
+> Installation details will be explained in Section III
+
+### Authors 
+**Christian Ramsey** 
+>LinkedIn : https://www.linkedin.com/in/christianramsey/
+>Tumblr : https://www.tumblr.com/blog/anthrochristianramsey
+
+**Haohan Wang** 
+> LinedIn : https://www.linkedin.com/in/haohanw/
+> Tumblr : https://www.tumblr.com/blog/haohanwang 
+
+***
 **SECTION I – Keras introduction**
 > 1.1 Keras Introduction
 > 1.2 Review of backends Theano, Tensorflow, and Mxnet
@@ -8,6 +57,7 @@
 > 1.5 Training with augmentation 
 > 1.6 Training Image data on the disk with Transfer Learning and Data augmentation 
 -----
+
 **SECTION II – Scaling Deep Learning using Keras and Tensorflow**
 > 2.1 Tensorflow Introduction
 > 2.2 Tensorboard Introduction
