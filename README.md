@@ -71,7 +71,7 @@ https://cloud.google.com/sdk/
 * 2.5 Configuring Keras to use tensorflow for Distributed problems 
 ---
 
-**SECTION III - Distirbuted Deep Learning with Google Cloud MLE**
+**SECTION III - [Distirbuted Deep Learning with Google Cloud MLE](https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning)**
 ##### Links: 
 * SectionIII: https://github.com/christianramsey/Tensorflow-for-Distributed-Deep-Learning
 * DDL- MLE: https://github.com/christianramsey/ddl_mle
